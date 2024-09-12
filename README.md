@@ -57,7 +57,7 @@ git clone https://github.com/kiruthikpurpose/CancerDetectionModel.git
 ## Install the necessary Python dependencies:
 
 ```
-pip install -r requirements.txt
+pip install -r Requirements.txt
 ```
 
 Ensure that the dataset (CancerStats.csv) is in the root folder of the project.
